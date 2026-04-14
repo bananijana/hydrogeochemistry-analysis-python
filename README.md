@@ -112,11 +112,14 @@ This workflow was developed as part of dissertation fieldwork along the Hooghlyâ
 ## Author
 
 **Banani Jana**  
-M.Sc. Applied Geology (2nd Year)  
-Presidency University, Kolkata  
-Email: bananijana2002@gmail.com
+ORCID: https://orcid.org/0009-0007-0146-4535
 
 ---
+
+## Citation
+If you use this methodology or implementation logic in academic or technical work,
+please cite this repository. A formal citation file and DOI will be provided
+in subsequent releases.
 
 ## License
 
